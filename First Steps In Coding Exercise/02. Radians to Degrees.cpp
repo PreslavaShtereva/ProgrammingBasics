@@ -9,6 +9,8 @@ int main()
 	cin >> rad;
 	deg = rad * 180 / 3.14;
 	cout << round(deg);
+	
+return 0;
 }
 
 
