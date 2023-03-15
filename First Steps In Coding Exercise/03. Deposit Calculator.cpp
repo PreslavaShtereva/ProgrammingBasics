@@ -12,7 +12,7 @@ int main()
 	cin >> procent;
 	cout << depositSum + month * ((depositSum * (procent/100)) / 12);
 
-	return 0;
+return 0;
 }
 
 
