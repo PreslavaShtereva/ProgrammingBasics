@@ -10,9 +10,7 @@ int main()
 		cout << "Excellent!";
 	}
 	
-
-
-	return 0;
+return 0;
 }
 
 
