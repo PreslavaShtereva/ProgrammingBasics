@@ -12,7 +12,7 @@ int main()
 	cin >> days;
 	cout << (pages / pagesPerHour) / days;
 
-	return 0;
+return 0;
 }
 
 
