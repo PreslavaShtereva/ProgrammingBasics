@@ -10,7 +10,8 @@ int main()
 	double ball = 0.25 * jursey;
 	double acces = 0.20 * ball;
 	cout << yearPrice + shoes + jursey + ball + acces;
-	return 0;
+	
+return 0;
 }
 
 
