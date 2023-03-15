@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
 	int a;
 	cin >> a;
 	if (a < 100)
@@ -13,7 +12,7 @@ int main()
 	else
 		cout<< "Greater than 200";
 
-	return 0;
+return 0;
 }
 
 
