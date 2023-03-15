@@ -18,7 +18,7 @@ int main()
 	double used = capacity_liter - unused;
 	cout << used;
 
-	return 0;
+return 0;
 }
 
 
