@@ -17,7 +17,8 @@ int main()
 	double sum = plasticPrice + paintPrice + liquidPrice+0.40;
 	double hoursP = (sum * 0.3) * hours;
 	cout << sum + hoursP;
-	return 0;
+	
+return 0;
 }
 
 
