@@ -9,12 +9,12 @@ int main()
 	int liter;
 	int percent;
 	cin >> pen;
-    cin >> markers;
+        cin >> markers;
 	cin >> liter;
 	cin >> percent;
 	cout << (pen * 5.80 + markers * 7.20 + liter * 1.20) - ((pen * 5.80 + markers * 7.20 + liter * 1.20)*percent / 100);
 
-	return 0;
+return 0;
 }
 
 
